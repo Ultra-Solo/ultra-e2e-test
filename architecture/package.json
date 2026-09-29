@@ -13,6 +13,6 @@
     "verify": "npm run validate && npm test && npm run build"
   },
   "devDependencies": {
-    "likec4": "^1.59.3"
+    "likec4": "^1.59.4"
   }
 }
