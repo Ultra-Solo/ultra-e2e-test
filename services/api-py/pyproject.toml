@@ -8,7 +8,7 @@ requires-python = ">=3.13"
 dependencies = []
 
 [dependency-groups]
-dev = ["mypy>=1.18.2", "pytest>=8.4.2", "ruff>=0.14.4"]
+dev = ["mypy>=1.18.2", "pytest>=8.4.2", "ruff>=0.16.9"]
 
 [tool.uv]
 # The one place uv's version is pinned: uv refuses to run outside this range, and every workflow's
